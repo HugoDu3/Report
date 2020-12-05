@@ -1,0 +1,7 @@
+version: 1
+
+debug: false
+
+cooldown: 60
+
+webhook_url: "https://discord.com/api/webhooks/784655826617892887/ALzIRoDY0KoWqoqqdEsxUwqwXohRngPO0nBEnN4QPnhhOatE_2RxEH4c0wWJ2vCvi0Ko"
